@@ -5,7 +5,7 @@ A generic implementation of a dictionary basead on the [AVL Tree data structure]
 The [dict.hpp](dict.hpp) file can be dropped into an existing project in c++ and used.
 
 ## Usage
-An example of usage can be found in [example.cpp]().
+An example of usage can be found in [example.cpp](example.cpp).
 
 For a user-defined data type (UDT), it is necessary to [overload](https://en.cppreference.com/w/cpp/language/operators) assign, relational and comparison operators.
 
